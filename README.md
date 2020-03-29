@@ -1,7 +1,7 @@
 # SwiftUI 
 ## Hierarchical Navigation 
 
-	Grand Parent 
+	Grandparent 
 		Parent
 			Child
 				Grandchild
